@@ -5,7 +5,7 @@ echo "\n============== $(date) =====================" >> log.txt
 eval $logs >> log.txt
 
 git config --global user.email "mustaphairadukunda@gmail.com"
-git config --global user.name "IVainqueur"
+git config --global user.name "iradukun"
 git branch -M main
 
 if [ "$NUM" = "" ] || [ "$NUM " -lt 0 ]; then

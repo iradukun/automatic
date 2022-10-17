@@ -1,5 +1,5 @@
 {
-  "name": "selfpush",
+  "name": "automatic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IVainqueur/self-push.git"
+    "url": "git+https://github.com/iradukun/automatic.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IVainqueur/self-push/issues"
+    "url": "https://github.com/iradukun/automatic/issues"
   },
-  "homepage": "https://github.com/IVainqueur/self-push#readme"
+  "homepage": "https://github.com/iradukun/automatic#readme"
 }
